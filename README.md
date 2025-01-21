@@ -1,16 +1,18 @@
 # crm
 
-A new Flutter project.
+### **SAARANM - The Ultimate Fair Management & Product Showcase App**  
+📲 [Google Play](https://play.google.com/store/apps/details?id=com.diracerp.saaranm&hl=en) | [Apple Store](https://apps.apple.com/us/app/saaranm/id6451142647)  
 
-## Getting Started
+- 🔧 **Tech Stack**: Flutter, Firebase, Local Database  
+- **Exhibitor’s Dream App**: Showcase your products at exhibitions or showrooms with **multiple images** and **multi-currency support**.  
+- 📝 **Capture Customer Insights**: Log conversations during customer visits and even sketch new ideas on the go.  
+- 📦 **Product Cataloguing Extension**: Seamlessly extend your product catalog with this app for easy management.  
+- 💰 **Effortless Costing**: Calculate product costs directly within the app for better business efficiency.  
 
-This project is a starting point for a Flutter application.
+With **SAARANM**, exhibitors and businesses can simplify fair management, enhance customer interactions, and present their products professionally!
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Profile Banner](11.jpg)
+![Profile Banner](22.jpg)
+![Profile Banner](33.jpg)
+![Profile Banner](44.jpg)
+![Profile Banner](55.jpg)
