@@ -1,7 +1,7 @@
 # crm
 
 ### **SAARANM - The Ultimate Fair Management & Product Showcase App**  
-📲 [Google Play](https://play.google.com/store/apps/details?id=com.diracerp.saaranm&hl=en) | [Apple Store](https://apps.apple.com/us/app/saaranm/id6451142647)  
+📲 [Google Play](https://play.google.com/store/apps/details?id=com.diracerp.crm) | [Apple Store](https://apps.apple.com/us/app/saaranm/id6446082998)  
 
 - 🔧 **Tech Stack**: Flutter, Firebase, Local Database  
 - **Exhibitor’s Dream App**: Showcase your products at exhibitions or showrooms with **multiple images** and **multi-currency support**.  
